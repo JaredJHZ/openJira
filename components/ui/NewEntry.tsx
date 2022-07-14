@@ -27,7 +27,7 @@ export const NewEntry = () => {
 
         setTouched(false);
         
-        addingEntryFalse();
+        setIsAddingEntry(false);
 
     }
 
